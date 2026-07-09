@@ -153,4 +153,4 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 
 Built with ❤️ by the PinPoint Community. Stay focused. Stay invincible.
 
-PinPoint is a great community where you learn, relearn and have opportunity of being in a great Team.
+PinPoint is a great community where you learn, relearn and have opportunity of being in a great Team. Keep learning for greater oppportunites.
