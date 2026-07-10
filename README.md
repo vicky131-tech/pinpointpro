@@ -1,3 +1,61 @@
+# Pinpoint Pro
+
+> A lightweight productivity workspace and assistant built with React + TypeScript and Vite.
+
+**Pinpoint Pro** provides a focused desktop-like web app with built-in assistants, soundscapes, task boards, and quick search tools to help you stay productive.
+
+**Features**
+- Focus task board with task management and prioritization
+- Echo and Smart assistants for contextual help and automation
+- Ghost search for fast, fuzzy searching across the workspace
+- Soundscape engine for ambient focus audio
+- Onboarding, preferences and a compact desktop UI
+
+**Tech stack**
+- Framework: React + TypeScript
+- Bundler: Vite
+- Files: `.tsx` React components, `soundscapeEngine.ts` for audio logic
+
+**Getting started**
+1. Install dependencies
+
+```bash
+npm install
+```
+
+2. Start development server
+
+```bash
+npm run dev
+```
+
+3. Build for production
+
+```bash
+npm run build
+```
+
+**Project structure (key files)**
+- `App.tsx` — main app shell
+- `index.tsx` — app entry
+- `Desktop.tsx`, `Window.tsx`, `WorkspaceManager.tsx` — UI and workspace layout
+- `SmartAssistant.tsx`, `EchoAssistant.tsx` — assistant UI
+- `FocusTaskBoard.tsx` — task board
+- `soundscapeEngine.ts` — ambient audio engine
+
+**Development notes**
+- TypeScript configuration is in `tsconfig.json`.
+- Vite config is in `vite.config.ts`.
+
+**Contributing**
+Contributions welcome — open an issue or submit a pull request. Please follow the existing code style and add small, focused commits.
+
+**License**
+This repo does not include a license file. Add one if you plan to publish this project.
+
+---
+
+_Generated README created by a helper tool._
 # 📌 PinPoint Pro
 
 > **The Open-Source "Invincible UI" Window Manager & Productivity Surface.**
